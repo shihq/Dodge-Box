@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{4FFD8065-ECC9-5261-8196-0DAE4C700CCE}|单元测试">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Manager/MapManager.cs">
+    <Files>
+      <File FileName="../../地牢DEMO/地牢DEMP/Assets/_Complete-Game/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Manager/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Singleton/MonoSingleton.cs" Line="54" Column="1" />
+      <File FileName="Assets/Scripts/Manager/AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/PoolManagerExampleFiles/Scripts/CreationExample.cs" Line="27" Column="29" />
+      <File FileName="Assets/Scripts/Manager/MapManager.cs" Line="132" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.跑酷 PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

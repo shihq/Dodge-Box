@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c49f70c5176eb49f3be552f84577fc6f
+timeCreated: 1506844375
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MLingWaiPHK
+  fontNames:
+  - MLingWaiPHK
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
